@@ -14,7 +14,7 @@ services:
       - '27017:27017'
     environment:
       MONGO_INITDB_ROOT_USERNAME: moneygoyal
-      MONGO_INITDB_ROOT_PASSWORD: 4BYkeZ4#6r-ie8Q
+      MONGO_INITDB_ROOT_PASSWORD: MgX9555617840
     volumes:
       - mongodb_data:/data/db/
 
